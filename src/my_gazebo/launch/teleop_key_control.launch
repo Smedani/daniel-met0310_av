@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="my_gazebo" type="r2d2_teleop_key.py" name="r2d2_teleop_keyboard"  output="screen">
+  </node>
+</launch>
